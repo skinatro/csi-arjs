@@ -1,6 +1,6 @@
 # csi-arjs
 Scan the QR-Code and point the camera towards the marker for a surprise
-[marker.png](./markerqr.png)
+![marker.png](./markerqr.png)
 
 
 ## Credits
